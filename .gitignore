@@ -1,0 +1,5 @@
+#  chacher le clée api étape 4
+
+# Autres entrées de .gitignore...
+# Ignore le fichier .env
+.env
